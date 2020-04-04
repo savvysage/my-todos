@@ -1,0 +1,12 @@
+body {
+    background-color: #6a0dad;
+}
+
+.title {
+    color: #98ff98;
+}
+
+#todoList li:hover {
+    background-color: lightcyan;
+    text-decoration: line-through;
+}
